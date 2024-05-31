@@ -5,55 +5,77 @@ html, body{
     align-items: center;
     height: 100%;
     
+    
 }
 section{
     background-color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
-    align-items: center;
-    width: 150%
-    height: 5005%
-    margin: 900px;
-    border-radius: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1.2cm;
+    height: 50%;
+    
+    border-radius: 6px;
+    
+    
+    
 
     
 }
-
+h1{
+    text-align: center;
+    align-items: center;
+}
 
 
 
 
 .miestilo{
     color: gray;
-    text-align: center;
+    text-align: justify;
     font-size: smaller;
 
 }
 button{
+
+    
     background-color: rgb(77, 124, 244);
     color: white;
-    width: 350px
+    width: 10cm;
+    height: 1.5cm;
+    border-radius: 5px;
     
 }
 img{
     position: relative;
     top: 30px;
-    margin-left: 114px; 
+    margin-left: 249px; 
 }
 input{
     display: block;
+    height: 1cm;
+    width: 10cm;
+    border-radius: 5px;
+    border-width: thin;
+    
     
 }
-label{
-    align-items: center;
-}
 
+    
+
+form{
+
+}
 .final{
     font-size: small;
     font-style: normal;
     color: gray;
-
+    text-align: center;
+    justify-content: center;
+    
 }
-b{
+.register{
     color: black;
+    
+}
+.espacio{
+    color: rgb(239, 236, 236);
 }
