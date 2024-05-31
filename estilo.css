@@ -1,9 +1,34 @@
-body{
-    background-color: rgb(162, 204, 249);
+html, body{
+    background-color: rgb(196, 221, 248);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
     
 }
 section{
     background-color: white;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    width: 450px;
+    height: 300px;
+    margin: 100px;
+    border-radius: 10px;
+
+    
+}
+
+
+.cambio{
+    font-weight: 4000000000;
+}
+
+.miestilo{
+    color: gray;
+    text-align: center;
+    font-size: smaller;
+
+}
+.boton{
+    padding: 100px 40px blue 
 }
