@@ -10,18 +10,18 @@ section{
     background-color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    width: 450px;
-    height: 300px;
-    margin: 100px;
-    border-radius: 10px;
+    align-items: center;
+    width: 150%
+    height: 5005%
+    margin: 900px;
+    border-radius: 20px;
 
     
 }
 
 
-.cambio{
-    font-weight: 4000000000;
-}
+
+
 
 .miestilo{
     color: gray;
@@ -29,6 +29,31 @@ section{
     font-size: smaller;
 
 }
-.boton{
-    padding: 100px 40px blue 
+button{
+    background-color: rgb(77, 124, 244);
+    color: white;
+    width: 350px
+    
+}
+img{
+    position: relative;
+    top: 30px;
+    margin-left: 114px; 
+}
+input{
+    display: block;
+    
+}
+label{
+    align-items: center;
+}
+
+.final{
+    font-size: small;
+    font-style: normal;
+    color: gray;
+
+}
+b{
+    color: black;
 }
